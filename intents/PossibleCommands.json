@@ -1,0 +1,38 @@
+{
+  "id": "38b28217-f1aa-4dd2-9fe4-a131975e3a83",
+  "name": "PossibleCommands",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Right now, I support the following commands:\n\nGeneral commands:\nHello\nDo you have an Email/Provide feedback\nEnd (Ends Conversation)\nHail Lord of the rings/Rohirrim/LOTR\nWhat do you think about Humans?/Do you like Humans?\nI like you/love you\nTell me a joke\nDo you have a name?/What is your name?\nWhat does Jarvis mean?/What is Jarvis?\nWho created/made you?",
+            "You can say:\nWho are you?\nHow old are you?\nYou\u0027re annoying\nAnswer my question\nYou\u0027re bad\nCan you get smarter?\nYou\u0027re beautiful.\nWhat\u0027s your birth date?\nYou\u0027re boring.\nWho is your boss?\nAre you busy?\nCan you help me?\nYou\u0027re a chatbot.\nYou\u0027re so clever.\nYou\u0027re crazy.\nYou\u0027re fired.\nYou are funny.",
+            "You can say:\nI\u0027m so excited.\nI\u0027m going to bed.\nI\u0027m good.\nI\u0027m happy.\nToday is my birthday.\nI am here.\nI\u0027m kidding.\nI like you.\nI\u0027m so lonely.\nWhat do I look like?\nI love you.\nI miss you.\nI need some advice.",
+            "You can say:\nI\u0027m sad.You are good.\nAre you happy?\nDo you have a hobby?\nAre you hungry?\nWill you marry me?\nAre we friends?\nWhere do you work?\nWhere are you from?\nAre you ready?\nAre you real?\nWhere do you live?\nYou\u0027re right.\nAre you sure?\nTalk to me.\nAre you there?\nThat\u0027s bad.\nGreat!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

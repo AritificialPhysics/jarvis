@@ -1,0 +1,54 @@
+[
+  {
+    "id": "88a23347-e8ff-4f3d-a1f9-fe3cc68a6a93",
+    "data": [
+      {
+        "text": "All Hail Rohirrim!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c1fce2e-4347-435e-8d11-56d68fd79d09",
+    "data": [
+      {
+        "text": "All hail Lord of the Rings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "407546e8-9210-4752-bd53-f29f33aa1ed4",
+    "data": [
+      {
+        "text": "Hail LOTR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a56b75c-f409-4c89-8d37-24574e7c0883",
+    "data": [
+      {
+        "text": "Hail Lord of the Rings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

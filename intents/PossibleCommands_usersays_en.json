@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c967eed4-da40-45ab-836b-1ff3e1d05e70",
+    "data": [
+      {
+        "text": "What are your capabilitites?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f827f02-7679-4d2d-9ba5-84921ffe1946",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b4f7527-ca3f-47f7-8dbd-b12a27f1c394",
+    "data": [
+      {
+        "text": "list command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e78514d9-4cf2-4f01-afa3-c2bd6da27b17",
+    "data": [
+      {
+        "text": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d10f299f-4f5d-4b63-89b3-b88d357462de",
+    "data": [
+      {
+        "text": "list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4a711a2-5f9f-476f-a06e-b51ff0920842",
+    "data": [
+      {
+        "text": "ls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

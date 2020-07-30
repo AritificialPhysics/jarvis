@@ -1,0 +1,64 @@
+{
+  "id": "1d64bbba-0ac1-4ed1-a306-797b8b751ea6",
+  "parentId": "6bc8b7f9-6cbe-4418-b226-8e0e81e28c9f",
+  "rootParentId": "6bc8b7f9-6cbe-4418-b226-8e0e81e28c9f",
+  "name": "Language - custom",
+  "auto": true,
+  "contexts": [
+    "Language-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Language.Language-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c543a51c-cdf2-45c9-ba5d-9d10bdf0761b",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can\u0027t believe you\u0027ve known #Language-followup.language for $duration!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can\u0027t believe you\u0027ve known #Language-followup.ProgrammingLanguage for $duration!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

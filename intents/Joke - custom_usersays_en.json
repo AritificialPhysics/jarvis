@@ -1,0 +1,54 @@
+[
+  {
+    "id": "fa657e30-403a-49df-a116-aed865f82ff6",
+    "data": [
+      {
+        "text": "Damn Sarge!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "986c460c-e2eb-4e09-90b6-f9f173ed7ada",
+    "data": [
+      {
+        "text": "Ha ha ha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1436b034-60b6-4006-b651-48e31015d1ec",
+    "data": [
+      {
+        "text": "I liked it!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59497212-78a9-4364-85dc-09bb63d91865",
+    "data": [
+      {
+        "text": "That was a nice joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "061bea77-5090-4661-bda7-117c2682a0db",
+    "data": [
+      {
+        "text": "I want to hear a joke!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4029d84-5ace-4abf-9ac1-d7ddbc978015",
+    "data": [
+      {
+        "text": "Tell me a science joke!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca5eeffc-6e30-42a3-8b8e-8b3368e886c6",
+    "data": [
+      {
+        "text": "Joke please!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "556ceca3-8531-4062-af4c-1029f89d327b",
+    "data": [
+      {
+        "text": "A joke!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a0af59e-9b71-4eb1-8490-68c7cc5fa9ab",
+    "data": [
+      {
+        "text": "Tell me a Joke!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

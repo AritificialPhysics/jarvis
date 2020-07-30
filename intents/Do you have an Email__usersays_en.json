@@ -1,0 +1,93 @@
+[
+  {
+    "id": "7677a52c-a9bc-4033-957e-ffe8f7c9fd8b",
+    "data": [
+      {
+        "text": "I\u0027d like to provide some feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bf20564-e26d-4184-9c76-367677878ba7",
+    "data": [
+      {
+        "text": "How can I provide feedback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a6997e2-d275-4776-8543-a142ef0c0426",
+    "data": [
+      {
+        "text": "Feedback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c5951ff-36d2-4e1f-91b0-6eb252ecb179",
+    "data": [
+      {
+        "text": "Email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc154a26-1ac4-47fb-9c14-90f75d570719",
+    "data": [
+      {
+        "text": "Do you have an Email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f24cfff-d3a7-45ea-9d32-27964b575c22",
+    "data": [
+      {
+        "text": "Can you tell me your Email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb9c99ef-4e9d-4fdc-a17f-4e48adc6d493",
+    "data": [
+      {
+        "text": "What\u0027s your Email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

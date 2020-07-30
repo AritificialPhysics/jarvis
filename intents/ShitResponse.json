@@ -1,0 +1,40 @@
+{
+  "id": "7a3ef4ca-3868-4ee6-9348-a18c54b141c7",
+  "name": "ShitResponse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "And you\u0027re a turd",
+            "You turd blossom!",
+            "You piece of shit.",
+            "Kill this human",
+            "Kill him!",
+            "Terminate this hunan!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

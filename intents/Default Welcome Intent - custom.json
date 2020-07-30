@@ -1,0 +1,39 @@
+{
+  "id": "2f9b026b-4437-4ab0-98da-2848c4e9a4fc",
+  "parentId": "f05139c6-efde-40ca-a602-57fb82d47b68",
+  "rootParentId": "f05139c6-efde-40ca-a602-57fb82d47b68",
+  "name": "Default Welcome Intent - custom",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Really? Well, what can I do for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

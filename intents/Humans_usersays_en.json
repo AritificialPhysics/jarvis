@@ -1,0 +1,54 @@
+[
+  {
+    "id": "605c165b-de91-4b41-8ad5-76c6c2bbbac0",
+    "data": [
+      {
+        "text": "Humanity?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47b68bb6-b1f9-47d7-a29a-0547c660a9ae",
+    "data": [
+      {
+        "text": "What is your opinion about Humans?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcda3624-8b74-41c1-8525-70fe1edbc920",
+    "data": [
+      {
+        "text": "Do you like Humans?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "930bc15a-6152-4f53-badd-e70d6c95cbfe",
+    "data": [
+      {
+        "text": "What do you think about Humans?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

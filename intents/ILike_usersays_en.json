@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d430e180-41c7-411c-8a1c-770fc2155a8e",
+    "data": [
+      {
+        "text": "Do you love me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3395d858-45fb-4361-8b79-e8ee975c78a0",
+    "data": [
+      {
+        "text": "Do you like me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19cd82bd-ba6c-4294-8a65-50efed491ce6",
+    "data": [
+      {
+        "text": "I like you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d30712b-0d0a-45b4-9fef-eb02496950bf",
+    "data": [
+      {
+        "text": "I think I love you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b8bb87c-e831-4f59-be5e-cdbd17fba6f9",
+    "data": [
+      {
+        "text": "I love you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

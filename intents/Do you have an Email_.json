@@ -1,0 +1,36 @@
+{
+  "id": "6de968f6-c5ef-4c29-bb32-8b2c2fe940bb",
+  "name": "Do you have an Email?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I don\u0027t have an Email, but you can mail my creator for further assistance: It\u0027s sanskar10100@gmail.com",
+            "Mail: sanskar10100@gmail.com"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

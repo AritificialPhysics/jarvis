@@ -1,0 +1,9 @@
+{
+  "id": "391af5b2-32ff-42fc-a79a-5217706b5bfd",
+  "name": "ProgrammingLanguage",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

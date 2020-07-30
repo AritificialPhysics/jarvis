@@ -1,0 +1,36 @@
+{
+  "id": "b7b29a1b-4ebf-493e-9093-657b0d01be5b",
+  "name": "C programming book",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you\u0027re a beginner, you should read Let Us C by Yashwant Kanetkar, and for advanced programmers, The C Programming Language by Dennis Ritchie will suffice.",
+            "You should try C Programming: A Modern Approach by KN King"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "6bc8b7f9-6cbe-4418-b226-8e0e81e28c9f",
+  "name": "Language",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Language-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8f6d7dbd-0428-4290-b951-6a0c34613928",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fbaad104-e1cc-419c-871e-370e554129fa",
+          "name": "ProgrammingLanguage",
+          "required": false,
+          "dataType": "@ProgrammingLanguage",
+          "value": "$ProgrammingLanguage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wow! I didn\u0027t know you knew $ProgrammingLanguage! How long have you known $ProgrammingLanguage?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wow! I didn\u0027t know you knew $language! How long have you known $language?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8ecf5505-99de-4d3f-922b-57c79ff34689",
+    "data": [
+      {
+        "text": "It\u0027s rad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6044dac6-c833-463b-876f-f103907a3886",
+    "data": [
+      {
+        "text": "Life\u0027s good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef077103-ca72-4124-9897-db31ef6966c4",
+    "data": [
+      {
+        "text": "Terrific!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a305c859-c5b1-4f52-9244-53e0f44ba3f4",
+    "data": [
+      {
+        "text": "Everything\u0027s good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc9ff50f-59db-4afe-a889-311350829a4b",
+    "data": [
+      {
+        "text": "I\u0027m good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43b2cb6c-79ad-4b1c-8342-c4cf34f38e0f",
+    "data": [
+      {
+        "text": "I\u0027m fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

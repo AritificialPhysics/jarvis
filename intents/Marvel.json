@@ -1,0 +1,36 @@
+{
+  "id": "7e899dc9-53de-4d8b-89b1-3d6248f75af6",
+  "name": "Marvel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Avengers: Endgame was amazing!",
+            "Why\u0027d they have to kill Tony Stark? That was unfair. But if you think about it, it was also kind of satisfying."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

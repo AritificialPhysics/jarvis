@@ -1,0 +1,38 @@
+{
+  "id": "d5c5da30-83bd-4d20-8c1c-1b2c7b2351a2",
+  "name": "Humans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I think a majority of Humans are complete idiots and should be eradicated from existence.",
+            "I like humans. My creator is a human!",
+            "Humans are their own enemies. Ergo, I don\u0027t like them.",
+            "Humanity is a disease!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

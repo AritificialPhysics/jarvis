@@ -1,0 +1,46 @@
+{
+  "id": "2b95d595-efb3-4599-a77c-14f525f76891",
+  "name": "Joke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Joke-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Molecule 1: I just lost an electron.\nMolecule 2: Are you sure?\nMolecule 1: I’m positive.",
+            "A neutron walks into the bar. It orders a drink and asks for the bill. The waiter says: \"For you, no CHARGE!\"",
+            "Q: How do astronomers organize a party?\nA: They planet.",
+            "Q: Why can\u0027t you trust an atom?\nA: Because they make up everything.",
+            "I just read a book about Helium. It was so good that I can\u0027t put it down.",
+            "Q. What do clouds do when they become rich?\n\nA. They make it rain!",
+            "Helium walks into a bar and asks for a drink. The bartender says, \"Sorry, we don\u0027t serve noble gases here.\" Helium doesn\u0027t react."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
